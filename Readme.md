@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shubh Mehta</h1>
 <h3 align="center">A passionate FullStack developer and Cyber Security Resercher from India</h3>
 
+- 🔭 SDE Intern at [Tranzact](https://github.com/fcbtech)
+
+- Mentor @GSSoC'24
+
 - 🔭 I’m currently working on [Fusion Project](https://github.com/FusionIIIT/)
 
 - 🌱 I’m currently learning **Devops**
