@@ -12,8 +12,6 @@
 
 - 🔭 SDE at [Even.in](https://even.in/)
 
-- 👨‍💻 Mentor @GSSoC'24
-
 - 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://shubhmehta.netlify.app/](https://shubhmehta.netlify.app/)
