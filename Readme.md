@@ -10,7 +10,7 @@
 
 - 🔭 GSoC'24 at [C2SI Org](https://github.com/c2siorg)
 
-- 🔭 SDE Intern at [Mercari Japan](https://about.mercari.com/en/)
+- 🔭 SDE at [Even.in](https://even.in/)
 
 - 👨‍💻 Mentor @GSSoC'24
 
