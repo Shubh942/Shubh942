@@ -54,7 +54,7 @@ Currently Learning:
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://shubhmehta.netlify.app/" target="_blank">
+<a href="https://shubhmehta.co.in/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://twitter.com/shubh21197" target="_blank">
@@ -165,7 +165,7 @@ Currently Learning:
 
 ## 📫 Reach Out
 
-🌐 <strong>Portfolio:</strong> <a href="https://shubhmehta.netlify.app/">shubhmehta.netlify.app</a><br>
+🌐 <strong>Portfolio:</strong> <a href="https://shubhmehta.co.in/">shubhmehta.co.in</a><br>
 💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/shubh-mehta197">linkedin.com/in/shubh-mehta197</a><br>
 🐦 <strong>X:</strong> <a href="https://twitter.com/shubh21197">@shubh21197</a>
 
