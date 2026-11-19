@@ -38,6 +38,11 @@ Security:
   - Business logic flaws, auth & access control
   - Secure system design
 
+Bug Bounty:
+  - HackerOne: shubh197
+  - Bugcrowd: shubh_21197
+  - Intigriti: shubh197
+
 Interests:
   - Backend & Distributed Systems
   - Security, Systems & Internals
@@ -74,6 +79,15 @@ Currently Learning:
 </a>
 <a href="https://www.leetcode.com/shubh200" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://hackerone.com/shubh197?type=user" target="_blank">
+<img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"/>
+</a>
+<a href="https://bugcrowd.com/h/shubh_21197" target="_blank">
+<img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
+</a>
+<a href="https://app.intigriti.com/researcher/profile/shubh197" target="_blank">
+<img src="https://img.shields.io/badge/Intigriti-161A36?style=for-the-badge&logo=intigriti&logoColor=white"/>
 </a>
 </p>
 
@@ -167,7 +181,8 @@ Currently Learning:
 
 🌐 <strong>Portfolio:</strong> <a href="https://shubhmehta.co.in/">shubhmehta.co.in</a><br>
 💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/shubh-mehta197">linkedin.com/in/shubh-mehta197</a><br>
-🐦 <strong>X:</strong> <a href="https://twitter.com/shubh21197">@shubh21197</a>
+🐦 <strong>X:</strong> <a href="https://twitter.com/shubh21197">@shubh21197</a><br>
+🐞 <strong>Bug Bounty:</strong> <a href="https://hackerone.com/shubh197?type=user">HackerOne</a> • <a href="https://bugcrowd.com/h/shubh_21197">Bugcrowd</a> • <a href="https://app.intigriti.com/researcher/profile/shubh197">Intigriti</a>
 
 ---
 
